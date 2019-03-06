@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/CucumberJars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/.m2/repository/io/cucumber/cucumber-core/4.2.0/cucumber-core-4.2.0.jar" sourcepath="C:/Users/deltaman/.m2/repository/io/cucumber/cucumber-core/4.2.0/cucumber-core-4.2.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.cucumber"/>
+			<attribute name="maven.artifactId" value="cucumber-core"/>
+			<attribute name="maven.version" value="4.2.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/SeleniumJars/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deltaman/Documents/Automation/SeleniumJars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
